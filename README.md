@@ -3,7 +3,7 @@
 ### Senior Full Stack Developer | PHP Laravel | Node.js | React 
 
 <p align="center">
-  <a href="https://devkp.github.io/">
+  <a href="https://devkp.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-00D9FF?style=for-the-badge&labelColor=0D1117" />
   </a>
   <a href="https://www.linkedin.com/in/kanhaiya-pandit">
@@ -137,8 +137,8 @@ A business application for managing claim processing and document workflows.
 I'm always happy to connect with developers, recruiters, founders, and people working on interesting ideas.
 
 <p align="center">
-  <a href="https://devkp.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-devkp.github.io-111827?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://devkp.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://github.com/kanhaiya-pandit">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
