@@ -1,35 +1,157 @@
-<h1 align="center"> Hi, I’m Kanhaiya Pandit </h1>
-<h3 align="center">Full Stack Web Developer | PHP | Laravel | MERN Stack | APIs Specialist | Database Design
-</h3> <br>
-<h4>I’m a Senior Full Stack Developer with 5+ years of industry experience, currently working as a Full Stack Developer. I design and build scalable, secure, and high-performance web applications with a strong emphasis on clean architecture, code quality, and long-term maintainability.</h4>
-<h4>I take ownership of projects end-to-end—from system design and backend APIs to frontend performance and deployment. I enjoy leading features, mentoring teammates, and delivering production-ready solutions for real-world business problems.</h4>
+# 👋 Hey, I'm Kanhaiya Pandit
 
+### Senior Full Stack Developer | PHP Laravel | Node.js | React 
 
-## 💼 What I Bring to the Table
-<ul>
-<li>🧠 System & API Design with scalability and security in mind</li>
-<li>⚙️ Backend Leadership using Laravel best practices</li>
-<li>🎨 Frontend Development with modern, responsive UI</li>
-<li>🔐 Authentication & Authorization (Sanctum, JWT, API security)</li>
-<li>🚀 Performance Optimization (queries, caching, code structure)</li>
-<li>🧩 Problem Solving & Refactoring legacy systems</li>
-</ul>
+<p align="center">
+  <a href="https://devkp.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-00D9FF?style=for-the-badge&labelColor=0D1117" />
+  </a>
+  <a href="https://www.linkedin.com/in/kanhaiya-pandit">
+    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-%23E4405F.svg?logo=Website&logoColor=white)](https://kanhaiya-pandit.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanhaiya-pandit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanhaiyapandit1997@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imkanhaiyapandit) 
-
-# 💻 Tech Stack:
- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST.APIs-FF6C37?style=for-the-badge&logo=rest-apis&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devstack-KP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devstack-KP&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devstack-KP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38DFFF&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;PHP+%7C+Laravel+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Exploring+AI+%26+Intelligent+Automation" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devstack-KP&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 A Little About Me
+
+I'm a **Full Stack Developer with 5+ years of professional experience**, focused on designing and developing scalable, secure, and business-driven web applications.
+
+My journey revolves around solving real-world problems through clean code, thoughtful architecture, and modern technologies. From building robust backend systems with Laravel to developing interactive frontend experiences with React, I enjoy taking ideas from concept to production.
+
+I'm also exploring the intersection of **Artificial Intelligence, application development, and intelligent automation** to create smarter and more efficient digital solutions.
+
+### What I Bring to the Table
+
+| Area | Expertise |
+|---|---|
+| ⚙️ Backend Engineering | PHP, Laravel, Node.js, Express.js, REST APIs |
+| 🎨 Frontend Development | JavaScript, React, HTML, CSS, Bootstrap |
+| 🗄️ Database Engineering | MySQL, MongoDB, Redis |
+| 🤖 AI & Automation | LLM integration, prompt engineering, AI-powered workflows |
+| ☁️ Infrastructure | Docker, AWS, Linux, Git |
+| 🔗 Integrations | Payment gateways, third-party APIs, external services |
+
+### Currently Exploring
+
+- 🤖 AI-powered application development and LLM integrations.
+- 🧠 Prompt engineering and intelligent automation workflows.
+- ⚛️ Building modern applications with the MERN stack.
+- 🏗️ Scalable backend architecture and system design.
+
+
+### Artificial Intelligence & Intelligent Automation
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Applications-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75FF" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Automation-FF6F00?style=for-the-badge" />
+</p>
+
+**Areas of Interest:**
+- Integrating AI capabilities into web applications.
+- Working with LLM APIs and AI-powered features.
+- Prompt engineering and structured AI outputs.
+- Automating repetitive business workflows.
+- Exploring AI agents and intelligent application workflows.
+
+## 💼 Featured Projects
+
+### 🚗 Ride Booking & Ride Sharing Platform
+A ride-booking and carpooling solution designed to connect passengers and drivers.
+
+- Ride creation, scheduling, and booking management.
+- Real-time and scheduled ride workflows.
+- Route mapping and location-based features.
+- Wallet and payment integrations.
+
+**Focus:** Booking workflows · Maps Integration · Payments · REST APIs
+
+### 📦 CrossBorderly – Shipping & Logistics Platform
+A logistics platform designed to streamline shipping operations and business workflows.
+
+- Multi-level administrative operations.
+- Shipping and order management.
+- Third-party service integrations.
+- API-driven application workflows.
+
+**Focus:** Laravel · Shopify APIs · MySQL · Logistics
+
+### 💳 Telecom Recharge Platform
+A platform for managing mobile recharge transactions and telecom services.
+
+- Mobile recharge workflows.
+- Third-party telecom API integrations.
+- Wallet and transaction management.
+- Commission and reporting functionality.
+
+**Focus:** Laravel · MySQL · Payment Integration · REST APIs
+
+### 📊 Claim Management System
+A business application for managing claim processing and document workflows.
+
+- API-based claim processing.
+- Automated PDF generation.
+- Email notifications.
+- Background jobs, queues, and scheduled tasks.
+
+**Focus:** Laravel · Queues · Cron Jobs · PDF Automation
+
+---
+
+## 📈 GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanhaiya-pandit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiya-pandit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kanhaiya-pandit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🎯 What I'm Interested In
+
+- Building scalable SaaS applications.
+- Backend architecture and API development.
+- Laravel and MERN stack development.
+- System design and performance optimization.
+- Automation and business process solutions.
+- Open-source collaboration.
+
+---
+
+### My Development Philosophy
+
+> Great software isn't just about writing code. It's about understanding problems, designing thoughtful solutions, and building systems that create real value.
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with developers, recruiters, founders, and people working on interesting ideas.
+
+<p align="center">
+  <a href="https://devkp.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-devkp.github.io-111827?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/kanhaiya-pandit">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kanhaiya-pandit">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Building. Learning. Improving. Delivering.</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
